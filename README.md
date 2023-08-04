@@ -16,12 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badger-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alfredm-7b41a0270/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AlfredMkg)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=badger-99&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badger-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alfredm-7b41a0270/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg' alt='twitter' height='40' >](https://twitter.com/https://twitter.com/AlfredMkg)  
 
 ![](https://github-readme-stats.vercel.app/api?username=badger-99&bg_color=000000&title_color=1600FF&text_color=ffffff&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=badger-99&theme=transparent&background=0a0a0a&stroke=ffffff&fire=1600ff&ring=1600FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=1600ff&dates=ffffff&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=badger-99&theme=transparent&background=000000&stroke=ffffff&fire=1600ff&ring=1600FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=badger-99&&bg_color=000000&title_color=1600ff&text_color=ffffff&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
 
 
@@ -38,3 +36,5 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=badger-99&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
