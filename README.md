@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=badger-99&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-stats.vercel.app/api?username=badger-99&bg_color=000000&title_color=1600FF&text_color=ffffff&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=badger-99&theme=transparent&background=080808&stroke=ffffff&fire=1600ff&ring=1600FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=1600ff&dates=ffffff&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=badger-99&theme=transparent&background=0a0a0a&stroke=ffffff&fire=1600ff&ring=1600FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=1600ff&dates=ffffff&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=badger-99&&bg_color=000000&title_color=1600ff&text_color=ffffff&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
 
 
