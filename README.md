@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Alfred
+#### A Software Developer
 [![](https://visitcount.itsvg.in/api?id=badger-99&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
@@ -15,13 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badger-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alfredm-7b41a0270/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AlfredMkg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/badger-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/alfredm-7b41a0270/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/AlfredMkg)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=badger-99&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://github-readme-stats.vercel.app/api?username=badger-99&theme=dark&background=000000&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=badger-99&bg_color=000000&title__color=0000cc&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=badger-99&theme=dark&background=000000&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=badger-99&theme=dark&background=000000&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=badger-99&bg_color=000000&title__color=0000cc&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
 
 
 ### 💻 Tech Stack
