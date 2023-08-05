@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="sale.png" width="1000"/>
+  <br>
+  <img src="header.svg" alt="banner"/>
+  <br>
 </div>
 
 <div style=>
