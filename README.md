@@ -1,15 +1,8 @@
-<div align="center">
-  <br>
-  <img src="header.svg" alt="banner"/>
-  <br>
+<div>
+  <img src="bitmoji.svg" alt="bitmoji"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=08B307&background=066C0200&multiline=true&height=100&lines=Hello+there!+(%5EO%5E)%EF%BC%8F;I'm+Alfred.+(%E2%96%80%CC%BF%C4%B9%CC%AF%E2%96%80%CC%BF+%CC%BF)+;A+software+developer+%E1%95%99(%E2%96%80%CC%BF%CC%BF%C4%B9%CC%AF%CC%BF%CC%BF%E2%96%80%CC%BF+%CC%BF)+%E1%95%97" alt="Typing SVG" /></a>
 </div>
 
-<div style=>
-  Test text
-</div>
-
-### Hi there 👋 I'm Alfred
-#### A Software Developer
 [![](https://visitcount.itsvg.in/api?id=badger-99&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!--
