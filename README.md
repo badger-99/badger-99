@@ -2,7 +2,7 @@
 
 <div align="center">
   <img width="400" src="corped-banner-bitmoji.png" alt="bitmoji"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=22&duration=2500&pause=500&color=08B307&background=066C0200&multiline=true&width=405&height=300&lines=%3E+Hello+there!+%E3%83%BD(%E2%80%A2%E2%80%BF%E2%80%A2)%E3%83%8E;%3E+I'm+Alfred.+(%E2%96%80%CC%BF%C4%B9%CC%AF%E2%96%80%CC%BF+%CC%BF)+;%3E+Front-end+Fixer+%E2%94%8C(%E2%96%80%C4%B9%CC%AF%E2%96%80)%E2%94%90;%3E+Back-end+Builder+%E3%83%BD(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E;%3E+Life-long+Learner+(%E2%8C%90%E2%96%A8+%CD%9C++%E2%96%A8)+;%3E+Software+Developer+%E1%95%99(%E2%96%80%CC%BF%C4%B9%CC%AF%E2%96%80%CC%BF+%CC%BF)+%E1%95%97;%3E+..cof..+(%E0%B8%87+%CD%A0%C2%B0+%CD%9F%D9%84%CD%9C+%CD%A1%C2%B0)%E0%B8%87+..fee" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&size=22&duration=2500&pause=500&color=08B307&background=066C0200&multiline=true&width=405&height=300&lines=%3E+Hello+there!+%E3%83%BD(%E2%80%A2%E2%80%BF%E2%80%A2)%E3%83%8E;%3E+I'm+Alfred.+(%E2%96%80%CC%BF%C4%B9%CC%AF%E2%96%80%CC%BF+%CC%BF)+;%3E+Front-end+Fixer+%E2%94%8C(%E2%96%80%C4%B9%CC%AF%E2%96%80)%E2%94%90;%3E+Back-end+Builder+%E3%83%BD(%E2%8C%90%E2%96%A0_%E2%96%A0)%E3%83%8E;%3E+Life-long+Learner+(%E2%8C%90%E2%96%A8+%CD%9C++%E2%96%A8)+;%3E+Software+Developer+%E1%95%99(%E2%96%80%CC%BF%C4%B9%CC%AF%E2%96%80%CC%BF+%CC%BF)+%E1%95%97;%3E+(%E0%B8%87+%CD%A0%C2%B0+%CD%9F%D9%84%CD%9C+%CD%A1%C2%B0)%E0%B8%87+.....+coffee!" alt="Typing SVG" /></a>
 </div>
 
 <br>
