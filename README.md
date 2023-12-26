@@ -60,6 +60,7 @@ Here are some ideas to get you started:
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://ruby-doc.org/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://guides.rubyonrails.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
   <a href="https://rspec.info/features/6-0/rspec-rails/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original.svg" alt="rspec" width="40" height="40"/> </a>
