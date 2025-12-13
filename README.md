@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <h2>👨‍💻 About Me:</h2>
     <p>I enjoy creating practical solutions to complicated problems and transforming ideas into something real that the world can see and interact with. Let's connect and build something extraordinary together!</p>
     <a src="https://www.linkedin.com/in/https://www.linkedin.com/in/alfredm-7b41a0270/"><img src="linkedin-color.svg" alt="LinkedIn" height='40'/></a>
-    <a src="https://twitter.com/https://twitter.com/AlfredMkg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" height='40'/></a>
+    <!-- <a src="https://twitter.com/https://twitter.com/AlfredMkg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="X" height='40'/></a> -->
   </div>
 </div>
 
